@@ -13,6 +13,7 @@ Batch Processing:Generate passwords for multiple accounts sequentially in one se
 Zero Dependencies:Built entirely with Python's standard library (`random`, `string`).
 
 Requirements
+
 Python 3.x installed on your system.
 
 How to Run
