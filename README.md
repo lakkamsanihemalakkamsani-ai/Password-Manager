@@ -5,8 +5,11 @@ A lightweight, terminal-based Python utility designed to generate strong, random
 Features
 
 Custom Password Length: Define the exact length required for your passwords.
+
 High Complexity:Combines uppercase letters, lowercase letters, numbers, and special symbols (`string.punctuation`).
+
 Batch Processing:Generate passwords for multiple accounts sequentially in one session.
+
 Zero Dependencies:Built entirely with Python's standard library (`random`, `string`).
 
 Requirements
